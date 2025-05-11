@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > 解説記事をQiitaに投稿しています。
+> 
 > [LangChain×Streamlit×RAGによるチャットボットアプリを開発してみた](https://qiita.com/so-engineer/items/588bd7ff0482ea3fe57f)
 
 ## 特徴
